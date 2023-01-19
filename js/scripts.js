@@ -109,7 +109,7 @@ gsap.to('.hero__images', {
     y: -50,
 })
 
-const tlLodaer = gsap.timeline()
+// const tlLodaer = gsap.timeline()
 
 // tlLodaer
 //     .set('.loader__item', { yPercent: -100 })

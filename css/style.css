@@ -459,10 +459,9 @@ header.fixed {
 }
 
 .section__hero {
-  padding: 150px 0;
+  padding: 225px 0 150px 0;
   position: relative;
   overflow: hidden;
-  margin-top: 75px;
 }
 
 .section__hero .hero__gradient {
@@ -1059,8 +1058,7 @@ header.fixed {
   }
 
   .section__hero {
-    padding: 50px 0;
-    margin-top: 54px;
+    padding: 54px 0;
   }
 
   .section__hero .hero__gradient {
